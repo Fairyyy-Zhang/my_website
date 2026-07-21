@@ -13,13 +13,13 @@
 
 # Local theme: edit _layouts, _includes, _sass, and assets in this repo (no remote theme).
 
-url    : "https://farryzhang.github.io"
+url    : "https://Fairyyy-Zhang.github.io"
 baseurl: "/my_website"
 
-title      : Farry Zhang
+title      : Fairy Zhang
 email      : 1436035656@qq.com #this is also the email contact forms will go to
 description: "learn more about me!"
-author     : Farry
+author     : Fairy
 #logo:     
   #path: assets\img\logo.png
   #height: 60 #height in px, defaults to 52px
