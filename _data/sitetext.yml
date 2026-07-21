@@ -64,7 +64,7 @@ en: &DEFAULT_EN
         align: left
       - title: "Ant Group"
         year: "June 2026 - now"
-        desc: AI Engineer and Backened Software Engineer
+        desc: AI Engineer and Backend Software Engineer
         <br> Task1: build the RKNN model with RNN and Kalman filter, used for radar target tracking algorithm
         <br> Task2: build the CKNN model with CNN and Kriging model, used for model optimization"
         image: assets/img/timeline/ant.png
