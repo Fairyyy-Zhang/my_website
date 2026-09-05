@@ -65,8 +65,10 @@ en: &DEFAULT_EN
       - title: "Ant Group"
         year: "June 2026 - September 2026"
         desc: AI Engineer and Backend Software Engineer
-        <br> Task1: build the RKNN model with RNN and Kalman filter, used for radar target tracking algorithm
-        <br> Task2: build the CKNN model with CNN and Kriging model, used for model optimization"
+        Skills:  Spring AI, Java, Spring Boot, Skill, SQL, ReAct Agent, Workflow, LangGraph, LangChain
+        <br>1. Onboarding Automation: Standardized merchant onboarding and payment-method activation workflows for Omnichannel, translating fragmented rules and exception paths into reusable Skills and helping build the Merchant Onboarding Agent.
+        <br>2. Merchant Data Integration: Co-built a merchant operations dashboard from the ground up, defining onboarding-time metrics and delivering five data modules. Designed a merchant information API that integrated multiple data sources and consolidated cross-system checks into a single MID-based lookup.
+        <br>3. AI Agent Engineering: Contributed to APWallet and RewardsAI agents across wallet and marketing-rewards use cases.. Designed and implemented a reusable pricing tool that converted pricing, discount, and rewards rules into deterministic calculations, improving Agent reliability, explainability, and execution accuracy.
         image: assets/img/timeline/ant.png
         align: 
     end: "Be Part <br> of My <br> Story!"
