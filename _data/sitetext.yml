@@ -97,7 +97,7 @@ en: &DEFAULT_EN
         icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: www.linkedin.com/in/fairy-zhang123
         icon: "fab fa-linkedin-in"
       - url: https://github.com/Farry-Zhang/my_website
         icon: "fab fa-github"
